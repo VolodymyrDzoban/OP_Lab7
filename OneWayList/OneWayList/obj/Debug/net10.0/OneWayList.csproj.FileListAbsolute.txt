@@ -1,0 +1,14 @@
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\OneWayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\OneWayList.AssemblyInfoInputs.cache
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\OneWayList.AssemblyInfo.cs
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\OneWayList.csproj.CoreCompileInputs.cache
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\bin\Debug\net10.0\OneWayList.exe
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\bin\Debug\net10.0\OneWayList.deps.json
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\bin\Debug\net10.0\OneWayList.runtimeconfig.json
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\bin\Debug\net10.0\OneWayList.dll
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\bin\Debug\net10.0\OneWayList.pdb
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\OneWayList.dll
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\refint\OneWayList.dll
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\OneWayList.pdb
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\OneWayList.genruntimeconfig.cache
+D:\OP_Lab2\Lab7\OneWayList\OneWayList\obj\Debug\net10.0\ref\OneWayList.dll
