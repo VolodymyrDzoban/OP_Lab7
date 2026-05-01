@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneWayList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c72fa8c4b5cb8a65fb430305a3eee9af7dcd80b")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneWayList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneWayList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

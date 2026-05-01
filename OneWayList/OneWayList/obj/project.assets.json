@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OP_Lab2\\Lab7\\OneWayList\\OneWayList\\OneWayList.csproj",
+      "projectUniqueName": "D:\\OP_Lab2\\Lab7\\Lab\\OneWayList\\OneWayList\\OneWayList.csproj",
       "projectName": "OneWayList",
-      "projectPath": "D:\\OP_Lab2\\Lab7\\OneWayList\\OneWayList\\OneWayList.csproj",
+      "projectPath": "D:\\OP_Lab2\\Lab7\\Lab\\OneWayList\\OneWayList\\OneWayList.csproj",
       "packagesPath": "C:\\Users\\Володя\\.nuget\\packages\\",
-      "outputPath": "D:\\OP_Lab2\\Lab7\\OneWayList\\OneWayList\\obj\\",
+      "outputPath": "D:\\OP_Lab2\\Lab7\\Lab\\OneWayList\\OneWayList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -66,6 +66,10 @@ namespace OWList
             if (index == 0)
             {
                 this.Head = this.Head!.Next;
+                if (this.Size == 1)
+                {
+                    this.Tail = this.Head;
+                }
             }
             else
             {
@@ -75,6 +79,10 @@ namespace OWList
                     current = current.Next!;
                 }
                 current.Next = current.Next!.Next;
+                if (index == this.Size - 1)
+                {
+                    this.Tail = current;
+                }
             }
             this.Size--;
         }
@@ -119,7 +127,12 @@ namespace OWList
 
         public OneWayList GetListAfterElement(char c)
         {
-            return GetListAfterElementAt(this.Find(c));
+            int index = this.Find(c);
+            if (index < 0 || index >= this.Size)
+            {
+                return new OneWayList();
+            }
+            return GetListAfterElementAt(index);
         }
 
         public void RemoveAfterElementAt(int index)
@@ -134,12 +147,18 @@ namespace OWList
                 current = current!.Next;
             }
             current!.Next = null;
+            this.Tail = current;
             this.Size = index + 1;
         }
 
         public void RemoveAfterElement(char c)
         {
-            this.RemoveAfterElementAt(this.Find(c));
+            int index = this.Find(c);
+            if (index < 0 || index >= this.Size)
+            {
+                return;
+            }
+            this.RemoveAfterElementAt(index);
         }
 
         public int SumOfElementsAtEvenPositions()
