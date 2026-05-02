@@ -6,15 +6,10 @@ namespace OWList
         public char Item { get; set; }
         public OneWayListNode? Next { get; set; }
 
-        public OneWayListNode(char item, OneWayListNode? next)
+        public OneWayListNode(char item)
         {
             this.Item = item;
-            this.Next = next;
-        }
-
-        public OneWayListNode(char item)
-            : this(item, null)
-        {
+            this.Next = null;
         }
     }
 }
