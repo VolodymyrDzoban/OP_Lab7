@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\OP_Lab2\\Lab7\\Lab\\Lab7\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01CBB298-6E3E-1D39-A8CF-79D8CB0EDD08}|Lab7\\Lab7.csproj|d:\\op_lab2\\lab7\\lab\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CBB298-6E3E-1D39-A8CF-79D8CB0EDD08}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OP_Lab2\\Lab7\\Lab\\Lab7\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "D:\\OP_Lab2\\Lab7\\Lab\\Lab7\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:41:22.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
